@@ -1,0 +1,7 @@
+torch
+gradio
+numpy
+pandas
+pillow
+transformers
+matplotlib
